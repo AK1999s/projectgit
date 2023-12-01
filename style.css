@@ -1,0 +1,9 @@
+body{
+    background-color: red;
+    padding:15px;
+    h1{
+        background-color: navy;
+        margin: 15px;
+        opacity: 50%;
+    }
+}
